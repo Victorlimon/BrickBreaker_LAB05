@@ -1,0 +1,2 @@
+C:\Users\Usuario\Desktop\BrickBreaker\Intermediate\Build\Win64\UE4Editor\Development\BrickBreaker\Definitions.BrickBreaker.h
+C:\Users\Usuario\Desktop\BrickBreaker\Source\BrickBreaker\Pila.h

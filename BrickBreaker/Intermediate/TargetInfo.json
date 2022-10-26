@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "BrickBreaker",
+			"Path": "C:\\Users\\Usuario\\Desktop\\BrickBreaker\\Source\\BrickBreaker.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "BrickBreakerEditor",
+			"Path": "C:\\Users\\Usuario\\Desktop\\BrickBreaker\\Source\\BrickBreakerEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
